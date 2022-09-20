@@ -2,7 +2,7 @@
   "author": "Paul Serby <paul@serby.net>",
   "name": "@clocklimited/configury",
   "description": "Easy management of environment based configuration",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "tags": [],
   "license": "ISC",
   "repository": {
