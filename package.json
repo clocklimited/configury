@@ -9,9 +9,6 @@
     "type": "git",
     "url": "git@github.com:clocklimited/configury"
   },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org"
-  },
   "files": [
     "configury.js"
   ],
